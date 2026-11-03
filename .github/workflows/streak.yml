@@ -9,9 +9,9 @@ permissions:
   contents: write
 
 env:
-  GIT_AUTHOR_NAME: Priyanka-cmd23
+  GIT_AUTHOR_NAME: Radhika Saxena
   GIT_AUTHOR_EMAIL: radhikasaxen22@gmail.com
-  GIT_COMMITTER_NAME: Priyanka-cmd23
+  GIT_COMMITTER_NAME: Radhika Saxena
   GIT_COMMITTER_EMAIL: radhikasaxen22@gmail.com
 
 jobs:
