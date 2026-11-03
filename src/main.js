@@ -1,6 +1,6 @@
 import './style.css'
 
-const DEFAULT_USER = 'Priyanka-cmd23'
+const DEFAULT_USER = 'radhikasaxen22'
 
 const state = {
   username: localStorage.getItem('gsd_user') || DEFAULT_USER,

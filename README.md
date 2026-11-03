@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Or use the live demo on [GitHub Pages](https://priyanka-cmd23.github.io/github-streak-dashboard/).
+Or use the live demo on [GitHub Pages](https://radhikasaxen22.github.io/github-streak-dashboard/).
 
 ## How it works
 
